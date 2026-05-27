@@ -12,3 +12,4 @@ for i in range(len(product)):
     print("-------------")
     total_company_revenue += revenue
     print("Total Company Revenue: ", total_company_revenue)
+    print("-------------")
