@@ -1,0 +1,5 @@
+Product,Category,Price,Quantity,Revenue
+Laptop,Electronics,50000.0,3.0,150000.0
+Mouse,Accessories,2000.0,10.0,20000.0
+Printer,Office,12000.0,4.0,48000.0
+Tablet,Electronics,25000.0,6.0,150000.0
