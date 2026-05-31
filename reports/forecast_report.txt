@@ -1,0 +1,4 @@
+Predicted Revenue Month 13: [48903.63128492]
+Predicted Revenue Month 14: [52315.6424581]
+Predicted Revenue Month 15: [55727.65363128]
+Predicted Revenue Month 20: [72787.70949721]
