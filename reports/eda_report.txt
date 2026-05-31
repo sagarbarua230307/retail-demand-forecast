@@ -1,0 +1,5 @@
+------ EDA Report -------
+Total Revenue: 368000.0
+Average Revenue: 92000.0
+Highest Revenue Product: Laptop
+Lowest Revenue Product: Mouse
